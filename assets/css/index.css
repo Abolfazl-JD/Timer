@@ -1,0 +1,82 @@
+
+        #window{
+            background-image: url(../images/unnamed.jpg);
+            background-repeat: no-repeat;
+            width: 1200px;
+            height: 300px;
+            
+        }
+        #box{
+            width: 600px;
+            height: 244px;
+            margin: 200px auto;
+            background-color: rgba(65,86,50,0.9);
+            border-radius: 27px;
+            position: relative;
+        }
+        #min{
+            height: 211px;
+            width: 142px;
+            background-color: transparent;
+            position: absolute;
+            border-radius: 27px;
+            padding: 57px;
+            font-size: 88px;
+            color: #fff;
+            left: 57px;
+        }
+        
+        #second{
+            height: 211px;
+            width: 142px;
+            background-color: transparent;
+            position: absolute;
+            border-radius: 27px;
+            left: 200px;
+            padding: 57px;
+            font-size: 88px;
+            color: #fff;
+        }
+        
+        #sec{
+            height: 211px;
+            width: 142px;
+            background-color: transparent;
+            position: absolute;
+            border-radius: 27px;
+            left: 345px;
+            padding: 61px;
+            font-size: 88px;
+            color: #fff
+        }
+        #btn1{
+            background-color: rgba(30,30,30,0.7);
+            border: 3px white solid;
+            position: absolute;
+            top: 171px;
+            left: 124px;
+            width: 55px;
+            height: 55px;
+            border-radius: 50px;
+        }
+        
+        #btn2{
+            background-color: rgba(30,30,30,0.7);
+            border: 2px white solid;
+            position: absolute;
+            top: 171px;
+            left: 270px;
+            width: 55px;
+            height: 55px;
+            border-radius: 50px;
+        }
+        
+        #btn3{
+            background-color: rgba(30,30,30,0.7);
+            position: absolute;
+            top: 171px;
+            left: 424px;
+            width: 55px;
+            height: 55px;
+            border-radius: 50px;
+        }
